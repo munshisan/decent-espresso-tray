@@ -20,11 +20,27 @@ To summarize, this stackup allows the Decent Scale to sit beneath, fitted to, th
 
 The Decent Scale has a grippy, rubberized coating on its base to sit securely on most countertop surfaces.
 
-In this stackup, the scale cover is placed over the scale. 
+In this stackup, the scale cover fits snugly[^1] over the scale and the tray is glued to the scale cover, making the whole stackup stay put on the counter.
 
-The scale cover should be printed in TPU95A or similar material that allows the scale cover to stretch and grip the scale. The scale cover should be adhesively bonded to the drip-tray, so the scale cover and tray are a unitary piece. The drip-tray can be printed in any material that is non-porous. I have printed it in high temperature PLA successfully (prints with CPE were a failure as CPE is porous).
+[^1]: The scale cover should be printed in TPU95A or similar material that allows the scale cover to stretch and grip the scale.
 
-The wire guide (aka wire stent) is necessary when connecting the scale to a USB power supply as any physical interference between the cable and the scale's cover will produce erroneous readings. 
+The wire guide (aka wire stent) is necessary when connecting the scale to USB power with the supplied cable as any physical contact interference between the cable and the scale's cover will produce erroneous readings. The wire guide moves the wire away from the scale to avoid interference.
 
 The waste chute extends the waste discharge exit point to the front of the enclosure and thus over the drip tray, allowing the drip tray to capture all the discharge.
+
+## How to print and assemble
+
+### The Drip Tray
+Use any non-porous material that is stable up to 150C. In my experience high temperature PLA works just fine. Nylon and polycarbonate would be equally suitable. The material need not be rigid but should not be overly flexible. Do not use CPE, it is porous. *Leak test your tray before proceeding.*
+
+### The Scale Cover 
+The STL is sized for TPU95A[^1] to provide a glove-like fit to the scale, yet not so snug that it remains easy to remove and re-install which is a frequent occurrence. TPU95A is a stretchy, rubber-like material. Glue the scale cover and drip tray together with a small amount of cyanoacrylate adhesive (Krazy Glue).
+
+### The Waste Chute Extender
+Print this in nylon, CPE or similar flexible material. Depending on the print method, a little bit of trimming may be needed to clean up supports and left-over build plate adhesion material. Orient the waste chute extender so that the slot points down and sits over the drip tray. Carefully insert just enough of it into the waste chute port on the DE1 until the front edge of the waste chute extender sits just under the mirror on the front of the DE1. Test that you haven't inserted it too far by running a shot or screen purge. The volume of the waste water purged should not be affected by the waste chute extender.
+
+### Wire Guide
+The wire guide is only necessary if using with USB power (highly recommended), and its only purpose is to guide the USB cable away from the scale so it does not interfere with the scale to prevent erroneous measurements. Firmly press-fit the wire guide with the flared end sitting over the right-angle USB connector's strain relief. Check that you don't have interference issues by wiggling the cable and watching the readout.
+
+
 
