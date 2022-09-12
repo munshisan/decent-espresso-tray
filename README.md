@@ -7,3 +7,9 @@ The motivation for this project was [explained here](https://3.basecamp.com/3671
 
 > Headline: I've replaced the Decent drip tray with a 3D printed tray that sits above the Decent Scale (DS). This stackup has been working well for me -- from pulling shots by weight, to steaming milk, refilling water,  flushing/routine maintenance, etc. (My DE1 is not plumbed.)
 
+> Pros of this setup:
+* Brew by weight
+* Everything stays put nicely and looks neat
+* The scale is not exposed to liquids/steam
+* The static weight of everything above the scale (minus the SS tray cover) is about 130g
+* Slightly more headroom above the tray (useful for doing a pour-overs, say)
