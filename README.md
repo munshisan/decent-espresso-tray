@@ -6,7 +6,7 @@ This project contains files to print a waste tray and related parts to be used w
 The motivation for this project was [explained here](https://3.basecamp.com/3671212/buckets/7351439/messages/5296473889) but I'll copy/paste the relevant bits below.
 
 > Headline: I've replaced the Decent drip tray with a 3D printed tray that sits above the Decent Scale (DS). This stackup has been working well for me -- from pulling shots by weight, to steaming milk, refilling water,  flushing/routine maintenance, etc. (My DE1 is not plumbed.)
-
+> 
 > Pros of this setup:
 > * Brew by weight
 > * Everything stays put nicely and looks neat
@@ -22,7 +22,7 @@ The Decent Scale has a grippy, rubberized coating on its base to sit securely on
 
 In this stackup, the scale cover fits snugly[^1] over the scale and the tray is glued to the scale cover, making the whole stackup stay put on the counter.
 
-[^1]: The scale cover should be printed in TPU95A or similar material that allows the scale cover to stretch and grip the scale.
+[^1]: The scale cover should be printed in TPU95A or similar material that allows the scale cover to stretch around and grip the scale.
 
 The wire guide (aka wire stent) is necessary when connecting the scale to USB power with the supplied cable as any physical contact interference between the cable and the scale's cover will produce erroneous readings. The wire guide moves the wire away from the scale to avoid interference.
 
@@ -43,4 +43,5 @@ Print this in nylon, CPE or similar flexible material. Depending on the print me
 The wire guide is only necessary if using with USB power (highly recommended), and its only purpose is to guide the USB cable away from the scale so it does not interfere with the scale to prevent erroneous measurements. Firmly press-fit the wire guide with the flared end sitting over the right-angle USB connector's strain relief. Check that you don't have interference issues by wiggling the cable and watching the readout.
 
 
-
+A Parseeker
+September 2022
