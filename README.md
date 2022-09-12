@@ -32,7 +32,7 @@ The waste chute extends the waste discharge exit point to the front of the enclo
 
 ## How to print and assemble
 
-![illustration of parts](https://github.com/munshisan/decent-espresso-tray/blob/main/Decent%20drip%20tray%20stackup.pdf)
+[Click here for an illustration of the parts](https://github.com/munshisan/decent-espresso-tray/blob/main/Decent%20drip%20tray%20stackup.pdf)
 
 ### The Drip Tray
 Use any non-porous material that is stable up to 150C. In my experience high temperature PLA works just fine. Nylon and polycarbonate would be equally suitable. The material need not be rigid but should not be overly flexible. Do not use CPE as it is porous. *Leak test your tray before proceeding.*
