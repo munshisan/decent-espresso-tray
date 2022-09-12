@@ -43,5 +43,4 @@ Print this in nylon, CPE or similar flexible material. Depending on the print me
 The wire guide is only necessary if using with USB power (highly recommended), and its only purpose is to guide the USB cable away from the scale so it does not interfere with the scale to prevent erroneous measurements. Firmly press-fit the wire guide with the flared end sitting over the right-angle USB connector's strain relief. Check that you don't have interference issues by wiggling the cable and watching the readout.
 
 
-A Parseeker
-September 2022
+A Parseeker, September 2022
