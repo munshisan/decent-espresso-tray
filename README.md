@@ -16,6 +16,8 @@ The motivation for this project was [explained here](https://3.basecamp.com/3671
 
 To summarize, this stackup allows the Decent Scale to sit beneath, fitted to, the new drip-tray, in a ready-to-brew configuration. The stackup can be easily moved ouf the way to refill the water tank and the tray can be easily removed and refitted to the scale for emptying or cleaning the former.
 
+![picture](https://github.com/munshisan/decent-espresso-tray/blob/main/4183dccc-2d43-11ed-b161-a2dbc1cf1a08.webp)
+
 ## How it works
 
 The Decent Scale has a grippy, rubberized coating on its base to sit securely on most countertop surfaces.
