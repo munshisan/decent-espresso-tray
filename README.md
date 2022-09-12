@@ -44,4 +44,4 @@ The wire guide is only necessary if using with USB power (highly recommended), a
 
 
 --- 
--- A Parseeker, September 2022
+**A Parseeker**, September 2022
